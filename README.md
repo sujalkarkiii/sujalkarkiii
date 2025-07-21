@@ -16,6 +16,8 @@ Welcome to my GitHub profile! 🚀
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 
 
+## 🏋️‍♂️ Fitness & Hobbies  
+I enjoy staying active and hitting the gym regularly to keep both body and mind healthy.
 
 
 ## 📫 Let's Connect  
