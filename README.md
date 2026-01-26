@@ -1,5 +1,7 @@
 # Hi, I'm [Sujal Karki](https://www.linkedin.com/in/sujal-karki-33479530b) 👋
 
+🌐 Portfolio: **https://sujall.vercel.app**
+
 Welcome to my GitHub profile! 🚀
 
 ## 👨‍💻 About Me  
