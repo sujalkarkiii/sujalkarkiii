@@ -4,11 +4,6 @@
 
 Welcome to my GitHub profile! 🚀
 
-## 👨‍💻 About Me  
-🎓 Computer Engineering Student @ IOE Purwanchal Campus  
-💻 Web Developer (React, Node.js, Express)  
-🌱 Passionate about building web applications and continuously learning new technologies.  
-
 ## 🛠️ Tech Stack
 
 ### 💬 Languages  
